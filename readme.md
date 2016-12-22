@@ -1,4 +1,4 @@
-# react, react-router, Mobx boilerplate
+# react, react-router, mobx boilerplate
 
 ## Install dependencies
 
@@ -11,3 +11,7 @@ npm install
 ```js
 webpack
 ```
+
+## Check result
+
+Start <b>index.html</b> from the <b>dist</b> folder
